@@ -7,8 +7,8 @@
 #include <ESP8266WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "MiFibra-F6CB";
-const char* password = "bz5Pkign";
+const char* ssid     = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 
 // Set web server port number to 80
 WiFiServer server(80);
