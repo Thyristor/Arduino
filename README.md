@@ -5,3 +5,6 @@ Serial communication with:
 - UART
 - I2C
 - SPI
+
+LCD:
+- Hitachi LCD 16x2 PC1602F
